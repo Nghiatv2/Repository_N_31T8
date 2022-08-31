@@ -4,7 +4,7 @@
     <publisherurl>https://www.facebook.com/</publisherurl>
     <lastBuildDate>Mon, 09 Aug 2022 22:49:39 GMT</lastBuildDate>
     <job>
-        <title><![CDATA[Driver_01]]></title>
+        <title><![CDATA[Driver_30081021]]></title>
         <date><![CDATA[Tue, 29 Jun 2021 22:49:39 GMT]]></date>
         <referencenumber><![CDATA[IKNYZEE01]]></referencenumber>
         <url>
@@ -42,7 +42,7 @@ UPS is an equal opportunity employer. UPS does not discriminate on the basis of 
 		<salary_type><![CDATA[DAILY]]></salary_type>
         <education><![CDATA[N/A]]></education>
         <jobtype><![CDATA[FULL_TIME]]></jobtype>
-	<cpc>0.1</cpc>
+	<CPC>0.2</CPC>
         <major_category><![CDATA[Transportation & Logistics]]></major_category>
         <minor_category><![CDATA[CDL A Local Company Driver]]></minor_category> 
         <requirements>
@@ -60,7 +60,7 @@ UPS is an equal opportunity employer. UPS does not discriminate on the basis of 
         <workschedule><![CDATA[]]></workschedule>
     </job>
       <job>
-        <title><![CDATA[Driver_02]]></title>
+        <title><![CDATA[Driver_30081022]]></title>
         <date><![CDATA[Tue, 29 Jun 2021 22:49:39 GMT]]></date>
         <referencenumber><![CDATA[IKNYZEE01]]></referencenumber>
         <url>
@@ -97,7 +97,7 @@ UPS is an equal opportunity employer. UPS does not discriminate on the basis of 
 		<salary_type><![CDATA[DAILY]]></salary_type>
         <education><![CDATA[N/A]]></education>
         <jobtype><![CDATA[FULL_TIME]]></jobtype>
-	<cpc>0.2</cpc>
+	<CPC>0.4</CPC>
         <major_category><![CDATA[Transportation & Logistics]]></major_category>
         <minor_category><![CDATA[CDL A Local Company Driver]]></minor_category> 
         <requirements>
@@ -115,7 +115,7 @@ UPS is an equal opportunity employer. UPS does not discriminate on the basis of 
         <workschedule><![CDATA[]]></workschedule>
     </job>
 	    <job>
-        <title><![CDATA[Driver]]></title>
+        <title><![CDATA[Driver_30081023]]></title>
         <date><![CDATA[Tue, 29 Jun 2021 22:49:39 GMT]]></date>
         <referencenumber><![CDATA[IKNYZEE02]]></referencenumber>
         <url>
@@ -151,7 +151,7 @@ UPS is an equal opportunity employer. UPS does not discriminate on the basis of 
 		<salary_type><![CDATA[DAILY]]></salary_type>
         <education><![CDATA[N/A]]></education>
         <jobtype><![CDATA[FULL_TIME]]></jobtype>
-	<cpc>0.3</cpc>
+	<CPC>0.6</CPC>
         <education><![CDATA[N/A]]></education>
         <jobtype><![CDATA[FULL_TIME]]></jobtype>
         <major_category><![CDATA[Transportation & Logistics]]></major_category>
@@ -171,7 +171,7 @@ UPS is an equal opportunity employer. UPS does not discriminate on the basis of 
         <workschedule><![CDATA[]]></workschedule>
     </job>
 	    <job>
-        <title><![CDATA[Driver]]></title>
+        <title><![CDATA[Driver_30081024]]></title>
         <date><![CDATA[Tue, 29 Jun 2021 22:49:39 GMT]]></date>
         <referencenumber><![CDATA[IKNYZEE02]]></referencenumber>
         <url>
@@ -209,7 +209,7 @@ UPS is an equal opportunity employer. UPS does not discriminate on the basis of 
         <jobtype><![CDATA[FULL_TIME]]></jobtype>
         <education><![CDATA[N/A]]></education>
         <jobtype><![CDATA[FULL_TIME]]></jobtype>
-	<cpc>0.4</cpc>
+	<CPC>0.8</CPC>
         <major_category><![CDATA[Transportation & Logistics]]></major_category>
         <minor_category><![CDATA[CDL A Local Company Driver]]></minor_category> 
         <requirements>
@@ -227,7 +227,7 @@ UPS is an equal opportunity employer. UPS does not discriminate on the basis of 
         <workschedule><![CDATA[]]></workschedule>
     </job>
 	    <job>
-        <title><![CDATA[Driver]]></title>
+        <title><![CDATA[Driver_30081025]]></title>
         <date><![CDATA[Tue, 29 Jun 2021 22:49:39 GMT]]></date>
         <referencenumber><![CDATA[IKNYZEE03]]></referencenumber>
         <url>
@@ -265,7 +265,7 @@ UPS is an equal opportunity employer. UPS does not discriminate on the basis of 
         <jobtype><![CDATA[FULL_TIME]]></jobtype>
         <education><![CDATA[N/A]]></education>
         <jobtype><![CDATA[FULL_TIME]]></jobtype>
-	<cpc>0.5</cpc>
+	<CPC>1.0</CPC>
         <major_category><![CDATA[Transportation & Logistics]]></major_category>
         <minor_category><![CDATA[CDL A Local Company Driver]]></minor_category> 
         <requirements>
@@ -283,7 +283,7 @@ UPS is an equal opportunity employer. UPS does not discriminate on the basis of 
         <workschedule><![CDATA[]]></workschedule>
     </job>
 	    <job>
-        <title><![CDATA[Driver]]></title>
+        <title><![CDATA[Driver_30081026]]></title>
         <date><![CDATA[Tue, 29 Jun 2021 22:49:39 GMT]]></date>
         <referencenumber><![CDATA[IKNYZEE04]]></referencenumber>
         <url>
@@ -319,7 +319,7 @@ UPS is an equal opportunity employer. UPS does not discriminate on the basis of 
 		<salary_type><![CDATA[DAILY]]></salary_type>
         <education><![CDATA[N/A]]></education>
         <jobtype><![CDATA[FULL_TIME]]></jobtype>
-	<cpc>0.6</cpc>
+	<CPC>1.2</CPC>
         <education><![CDATA[N/A]]></education>
         <jobtype><![CDATA[FULL_TIME]]></jobtype>
         <major_category><![CDATA[Transportation & Logistics]]></major_category>
@@ -339,7 +339,7 @@ UPS is an equal opportunity employer. UPS does not discriminate on the basis of 
         <workschedule><![CDATA[]]></workschedule>
     </job>
 	    <job>
-        <title><![CDATA[Driver]]></title>
+        <title><![CDATA[Driver_30081027]]></title>
         <date><![CDATA[Tue, 29 Jun 2021 22:49:39 GMT]]></date>
         <referencenumber><![CDATA[IKNYZEE05]]></referencenumber>
         <url>
@@ -375,7 +375,7 @@ UPS is an equal opportunity employer. UPS does not discriminate on the basis of 
 		<salary_type><![CDATA[DAILY]]></salary_type>
         <education><![CDATA[N/A]]></education>
         <jobtype><![CDATA[FULL_TIME]]></jobtype>
-	<cpc>0.7</cpc>
+	<CPC>1.4</CPC>
         <education><![CDATA[N/A]]></education>
         <jobtype><![CDATA[FULL_TIME]]></jobtype>
         <major_category><![CDATA[Transportation & Logistics]]></major_category>
@@ -395,7 +395,7 @@ UPS is an equal opportunity employer. UPS does not discriminate on the basis of 
         <workschedule><![CDATA[]]></workschedule>
     </job>
 	    <job>
-        <title><![CDATA[Driver]]></title>
+        <title><![CDATA[Driver_30081028]]></title>
         <date><![CDATA[Tue, 29 Jun 2021 22:49:39 GMT]]></date>
         <referencenumber><![CDATA[IKNYZEE06]]></referencenumber>
         <url>
