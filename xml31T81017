@@ -4,7 +4,7 @@
     <publisherurl>https://www.facebook.com/</publisherurl>
     <lastBuildDate>Mon, 09 Aug 2022 22:49:39 GMT</lastBuildDate>
     <job>
-        <title><![CDATA[Driver_30081021]]></title>
+        <title><![CDATA[Driver_30081130]]></title>
         <date><![CDATA[Tue, 29 Jun 2021 22:49:39 GMT]]></date>
         <referencenumber><![CDATA[IKNYZEE01]]></referencenumber>
         <url>
@@ -42,7 +42,7 @@ UPS is an equal opportunity employer. UPS does not discriminate on the basis of 
 		<salary_type><![CDATA[DAILY]]></salary_type>
         <education><![CDATA[N/A]]></education>
         <jobtype><![CDATA[FULL_TIME]]></jobtype>
-	<CPC>0.2</CPC>
+	<Cost>0.2</Cost>
         <major_category><![CDATA[Transportation & Logistics]]></major_category>
         <minor_category><![CDATA[CDL A Local Company Driver]]></minor_category> 
         <requirements>
@@ -60,9 +60,9 @@ UPS is an equal opportunity employer. UPS does not discriminate on the basis of 
         <workschedule><![CDATA[]]></workschedule>
     </job>
       <job>
-        <title><![CDATA[Driver_30081022]]></title>
+        <title><![CDATA[Driver_30081131]]></title>
         <date><![CDATA[Tue, 29 Jun 2021 22:49:39 GMT]]></date>
-        <referencenumber><![CDATA[IKNYZEE01]]></referencenumber>
+        <referencenumber><![CDATA[IKNYZEE02]]></referencenumber>
         <url>
             <![CDATA[http://www.examplesite.com/viewjob.cfm?jobid=IKNYZEE01&amp;source=Indeed]]>
         </url>
@@ -97,7 +97,7 @@ UPS is an equal opportunity employer. UPS does not discriminate on the basis of 
 		<salary_type><![CDATA[DAILY]]></salary_type>
         <education><![CDATA[N/A]]></education>
         <jobtype><![CDATA[FULL_TIME]]></jobtype>
-	<CPC>0.4</CPC>
+	<Cost>0.4</Cost>
         <major_category><![CDATA[Transportation & Logistics]]></major_category>
         <minor_category><![CDATA[CDL A Local Company Driver]]></minor_category> 
         <requirements>
@@ -115,9 +115,9 @@ UPS is an equal opportunity employer. UPS does not discriminate on the basis of 
         <workschedule><![CDATA[]]></workschedule>
     </job>
 	    <job>
-        <title><![CDATA[Driver_30081023]]></title>
+        <title><![CDATA[Driver_30081132]]></title>
         <date><![CDATA[Tue, 29 Jun 2021 22:49:39 GMT]]></date>
-        <referencenumber><![CDATA[IKNYZEE02]]></referencenumber>
+        <referencenumber><![CDATA[IKNYZEE03]]></referencenumber>
         <url>
             <![CDATA[http://www.examplesite.com/viewjob.cfm?jobid=IKNYZEE02&amp;source=Indeed]]>
         </url>
@@ -151,7 +151,7 @@ UPS is an equal opportunity employer. UPS does not discriminate on the basis of 
 		<salary_type><![CDATA[DAILY]]></salary_type>
         <education><![CDATA[N/A]]></education>
         <jobtype><![CDATA[FULL_TIME]]></jobtype>
-	<CPC>0.6</CPC>
+	<Cost>0.6</Cost>
         <education><![CDATA[N/A]]></education>
         <jobtype><![CDATA[FULL_TIME]]></jobtype>
         <major_category><![CDATA[Transportation & Logistics]]></major_category>
@@ -171,9 +171,9 @@ UPS is an equal opportunity employer. UPS does not discriminate on the basis of 
         <workschedule><![CDATA[]]></workschedule>
     </job>
 	    <job>
-        <title><![CDATA[Driver_30081024]]></title>
+        <title><![CDATA[Driver_300810133]]></title>
         <date><![CDATA[Tue, 29 Jun 2021 22:49:39 GMT]]></date>
-        <referencenumber><![CDATA[IKNYZEE02]]></referencenumber>
+        <referencenumber><![CDATA[IKNYZEE04]]></referencenumber>
         <url>
             <![CDATA[http://www.examplesite.com/viewjob.cfm?jobid=IKNYZEE02&amp;source=Indeed]]>
         </url>
@@ -209,7 +209,7 @@ UPS is an equal opportunity employer. UPS does not discriminate on the basis of 
         <jobtype><![CDATA[FULL_TIME]]></jobtype>
         <education><![CDATA[N/A]]></education>
         <jobtype><![CDATA[FULL_TIME]]></jobtype>
-	<CPC>0.8</CPC>
+	<Cost>0.8</Cost>
         <major_category><![CDATA[Transportation & Logistics]]></major_category>
         <minor_category><![CDATA[CDL A Local Company Driver]]></minor_category> 
         <requirements>
@@ -227,9 +227,9 @@ UPS is an equal opportunity employer. UPS does not discriminate on the basis of 
         <workschedule><![CDATA[]]></workschedule>
     </job>
 	    <job>
-        <title><![CDATA[Driver_30081025]]></title>
+        <title><![CDATA[Driver_30081134]]></title>
         <date><![CDATA[Tue, 29 Jun 2021 22:49:39 GMT]]></date>
-        <referencenumber><![CDATA[IKNYZEE03]]></referencenumber>
+        <referencenumber><![CDATA[IKNYZEE05]]></referencenumber>
         <url>
             <![CDATA[http://www.examplesite.com/viewjob.cfm?jobid=IKNYZEE03&amp;source=Indeed]]>
         </url>
@@ -265,7 +265,7 @@ UPS is an equal opportunity employer. UPS does not discriminate on the basis of 
         <jobtype><![CDATA[FULL_TIME]]></jobtype>
         <education><![CDATA[N/A]]></education>
         <jobtype><![CDATA[FULL_TIME]]></jobtype>
-	<CPC>1.0</CPC>
+	<Cost>1.0</Cost>
         <major_category><![CDATA[Transportation & Logistics]]></major_category>
         <minor_category><![CDATA[CDL A Local Company Driver]]></minor_category> 
         <requirements>
@@ -283,9 +283,9 @@ UPS is an equal opportunity employer. UPS does not discriminate on the basis of 
         <workschedule><![CDATA[]]></workschedule>
     </job>
 	    <job>
-        <title><![CDATA[Driver_30081026]]></title>
+        <title><![CDATA[Driver_30081135]]></title>
         <date><![CDATA[Tue, 29 Jun 2021 22:49:39 GMT]]></date>
-        <referencenumber><![CDATA[IKNYZEE04]]></referencenumber>
+        <referencenumber><![CDATA[IKNYZEE06]]></referencenumber>
         <url>
             <![CDATA[http://www.examplesite.com/viewjob.cfm?jobid=IKNYZEE04&amp;source=Indeed]]>
         </url>
@@ -319,7 +319,7 @@ UPS is an equal opportunity employer. UPS does not discriminate on the basis of 
 		<salary_type><![CDATA[DAILY]]></salary_type>
         <education><![CDATA[N/A]]></education>
         <jobtype><![CDATA[FULL_TIME]]></jobtype>
-	<CPC>1.2</CPC>
+	<Cost>1.2</Cost>
         <education><![CDATA[N/A]]></education>
         <jobtype><![CDATA[FULL_TIME]]></jobtype>
         <major_category><![CDATA[Transportation & Logistics]]></major_category>
@@ -339,9 +339,9 @@ UPS is an equal opportunity employer. UPS does not discriminate on the basis of 
         <workschedule><![CDATA[]]></workschedule>
     </job>
 	    <job>
-        <title><![CDATA[Driver_30081027]]></title>
+        <title><![CDATA[Driver_30081136]]></title>
         <date><![CDATA[Tue, 29 Jun 2021 22:49:39 GMT]]></date>
-        <referencenumber><![CDATA[IKNYZEE05]]></referencenumber>
+        <referencenumber><![CDATA[IKNYZEE07]]></referencenumber>
         <url>
             <![CDATA[http://www.examplesite.com/viewjob.cfm?jobid=IKNYZEE05&amp;source=Indeed]]>
         </url>
@@ -375,7 +375,7 @@ UPS is an equal opportunity employer. UPS does not discriminate on the basis of 
 		<salary_type><![CDATA[DAILY]]></salary_type>
         <education><![CDATA[N/A]]></education>
         <jobtype><![CDATA[FULL_TIME]]></jobtype>
-	<CPC>1.4</CPC>
+	<Cost>1.4</Cost>
         <education><![CDATA[N/A]]></education>
         <jobtype><![CDATA[FULL_TIME]]></jobtype>
         <major_category><![CDATA[Transportation & Logistics]]></major_category>
@@ -395,9 +395,9 @@ UPS is an equal opportunity employer. UPS does not discriminate on the basis of 
         <workschedule><![CDATA[]]></workschedule>
     </job>
 	    <job>
-        <title><![CDATA[Driver_30081028]]></title>
+        <title><![CDATA[Driver_30081137]]></title>
         <date><![CDATA[Tue, 29 Jun 2021 22:49:39 GMT]]></date>
-        <referencenumber><![CDATA[IKNYZEE06]]></referencenumber>
+        <referencenumber><![CDATA[IKNYZEE08]]></referencenumber>
         <url>
             <![CDATA[http://www.examplesite.com/viewjob.cfm?jobid=IKNYZEE06&amp;source=Indeed]]>
         </url>
@@ -433,7 +433,7 @@ UPS is an equal opportunity employer. UPS does not discriminate on the basis of 
         <jobtype><![CDATA[FULL_TIME]]></jobtype>
         <education><![CDATA[N/A]]></education>
         <jobtype><![CDATA[FULL_TIME]]></jobtype>
-	<cpc>0.8</cpc>
+	<Price>1.6</Price>
         <major_category><![CDATA[Transportation & Logistics]]></major_category>
         <minor_category><![CDATA[CDL A Local Company Driver]]></minor_category> 
         <requirements>
@@ -451,9 +451,9 @@ UPS is an equal opportunity employer. UPS does not discriminate on the basis of 
         <workschedule><![CDATA[]]></workschedule>
     </job>
 	    <job>
-        <title><![CDATA[Driver]]></title>
+        <title><![CDATA[Driver_30081138]]></title>
         <date><![CDATA[Tue, 29 Jun 2021 22:49:39 GMT]]></date>
-        <referencenumber><![CDATA[IKNYZEE07]]></referencenumber>
+        <referencenumber><![CDATA[IKNYZEE09]]></referencenumber>
         <url>
             <![CDATA[http://www.examplesite.com/viewjob.cfm?jobid=IKNYZEE07&amp;source=Indeed]]>
         </url>
@@ -487,6 +487,7 @@ UPS is an equal opportunity employer. UPS does not discriminate on the basis of 
 		<salary_type><![CDATA[DAILY]]></salary_type>
         <education><![CDATA[N/A]]></education>
         <jobtype><![CDATA[FULL_TIME]]></jobtype>
+	<PRICE>1.8</PRICE>
         <education><![CDATA[N/A]]></education>
         <jobtype><![CDATA[FULL_TIME]]></jobtype>
         <major_category><![CDATA[Transportation & Logistics]]></major_category>
@@ -506,9 +507,9 @@ UPS is an equal opportunity employer. UPS does not discriminate on the basis of 
         <workschedule><![CDATA[]]></workschedule>
     </job>
 	    <job>
-        <title><![CDATA[Driver]]></title>
+        <title><![CDATA[Driver_30081139]]></title>
         <date><![CDATA[Tue, 29 Jun 2021 22:49:39 GMT]]></date>
-        <referencenumber><![CDATA[IKNYZEE08]]></referencenumber>
+        <referencenumber><![CDATA[IKNYZEE10]]></referencenumber>
         <url>
             <![CDATA[http://www.examplesite.com/viewjob.cfm?jobid=IKNYZEE08&amp;source=Indeed]]>
         </url>
@@ -561,9 +562,9 @@ UPS is an equal opportunity employer. UPS does not discriminate on the basis of 
         <workschedule><![CDATA[]]></workschedule>
     </job>
 	<job>
-        <title><![CDATA[Driver]]></title>
+        <title><![CDATA[Driver_30081140]]></title>
         <date><![CDATA[Tue, 29 Jun 2021 22:49:39 GMT]]></date>
-        <referencenumber><![CDATA[IKNYZEE09]]></referencenumber>
+        <referencenumber><![CDATA[IKNYZEE11]]></referencenumber>
         <url>
             <![CDATA[http://www.examplesite.com/viewjob.cfm?jobid=IKNYZEE09&amp;source=Indeed]]>
         </url>
