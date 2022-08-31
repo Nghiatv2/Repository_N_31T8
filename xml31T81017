@@ -57,7 +57,7 @@ UPS is an equal opportunity employer. UPS does not discriminate on the basis of 
         <experience><![CDATA[5+ years]]></experience>
         <expirationdate><![CDATA[Tue, 08 Nov 2022]]></expirationdate>
         <remotetype><![CDATA[IN_PERSON]]></remotetype>
-        <workschedule><![CDATA[FULL_TIME]]></workschedule>
+        <work_schedule><![CDATA[FULL_TIME]]></work_schedule>
     </job>
       <job>
         <title><![CDATA[Driver_30081131]]></title>
@@ -112,7 +112,7 @@ UPS is an equal opportunity employer. UPS does not discriminate on the basis of 
         <experience><![CDATA[5+ years]]></experience>
         <expirationdate><![CDATA[Tue, 08 Nov 2022]]></expirationdate>
         <remotetype><![CDATA[IN_PERSON]]></remotetype>
-        <workschedule><![CDATA[FULL_TIME]]></workschedule>
+        <work_schedule><![CDATA[FULL_TIME]]></work_schedule>
     </job>
 	    <job>
         <title><![CDATA[Driver_30081132]]></title>
@@ -168,7 +168,7 @@ UPS is an equal opportunity employer. UPS does not discriminate on the basis of 
         <experience><![CDATA[5+ years]]></experience>
         <expirationdate><![CDATA[Tue, 08 Nov 2022]]></expirationdate>
         <remotetype><![CDATA[IN_PERSON]]></remotetype>
-        <workschedule><![CDATA[FULL_TIME]]></workschedule>
+        <work_schedule><![CDATA[FULL_TIME]]></work_schedule>
     </job>
 	    <job>
         <title><![CDATA[Driver_300810133]]></title>
@@ -224,7 +224,7 @@ UPS is an equal opportunity employer. UPS does not discriminate on the basis of 
         <experience><![CDATA[5+ years]]></experience>
         <expirationdate><![CDATA[Tue, 08 Nov 2022]]></expirationdate>
         <remotetype><![CDATA[IN_PERSON]]></remotetype>
-        <workschedule><![CDATA[FULL_TIME]]></workschedule>
+        <work_schedule><![CDATA[FULL_TIME]]></work_schedule>
     </job>
 	    <job>
         <title><![CDATA[Driver_30081134]]></title>
